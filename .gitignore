@@ -1,0 +1,6 @@
+build/
+*.o
+tarea6
+.vscode/
+.idea/
+cmake-build-*/
